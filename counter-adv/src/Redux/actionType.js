@@ -1,0 +1,6 @@
+export const ADD_COUNTER = "ADD_COUNTER";
+export const REDUCE_COUNTER = "REDUCE_COUNTER";
+export const INCREMENT_COUNT = "INCREMENT_COUNT";
+export const DECREMENT_COUNT = "DECREMENT_COUNT";
+export const MULTIPLY = "MULTIPLY";
+export const DIVIDE = "DIVIDE";
